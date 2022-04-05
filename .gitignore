@@ -1,0 +1,4 @@
+# Azure ML
+.ipynb_aml_checkpoints/
+.amlignore
+*.amltmp
